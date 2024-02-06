@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(3, 150, 150);
+}
+
+header {
+    background-color: bisque;
+}
+
+
+h1 {
+    font-size: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(2, 23, 121);
+}
+
+p {
+    font-size: 1em;
+    color: rgb(76, 0, 255);
+}
+
+img.logo {
+    width: 100px;
+    height: auto;
+}
+
+img#hero-img {
+    width: 100%;
+}
+
+div.social img {
+    width: 35px;
+}
+

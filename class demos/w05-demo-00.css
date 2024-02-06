@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    background-color: aquamarine;
+    border: 10px solid black;
+    padding: 100px;
+    margin: 100px;
+    width: 400px;
+    margin: 20px auto;
+}
+
+img{
+    display: block;
+    margin: 10px auto;
+    width: 400px;
+    border: 10px solid black;
+    padding: 200px;
+    background-color: teal;
+}
